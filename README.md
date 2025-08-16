@@ -1,1 +1,2 @@
 # QR Code Generator
+A QR code is a type of two-dimensional barcode that can store information such as text, URLs, or contact details. It can be scanned using a smartphone or QR scanner, instantly directing users to the encoded content. QR codes are widely used for digital payments, product tracking, website links, event tickets, and marketing, making information sharing fast, easy, and contactless.
